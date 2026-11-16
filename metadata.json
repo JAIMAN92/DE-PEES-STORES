@@ -1,0 +1,8 @@
+{
+  "name": "DE-PEES BABY & MOTHER CARE",
+  "description": "Premier Nigerian boutique for children's fashion, baby essentials, school accessories, and mother care in Port Harcourt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Classic Breathable Kids' White & Gold Sneakers",
+      "slug": "kids-white-gold-sneakers",
+      "category_id": "cat-shoes",
+      "category_name": "Children's Shoes",
+      "description": "Durable and lightweight daily active sneakers designed with supportive non-slip soles, velcro straps for easy wear, and soft cushioning for growing feet.",
+      "price": 18500,
+      "original_price": 22000,
+      "images": [],
+      "sizes": [
+        "24 EU",
+        "26 EU",
+        "28 EU",
+        "30 EU",
+        "32 EU"
+      ],
+      "colors": [
+        "White/Gold",
+        "Pink/White",
+        "Navy/Cyan"
+      ],
+      "stock_quantity": 14,
+      "is_featured": true,
+      "is_published": true,
+      "is_latest": true,
+      "created_at": "2026-03-01T10:00:00Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Orthopedic Durable School Leather Shoes (Unisex)",
+      "slug": "orthopedic-school-shoes",
+      "category_id": "cat-shoes",
+      "category_name": "Children's Shoes",
+      "description": "Premium scuff-resistant black school shoes with arch support, padded heel collars, and reinforced toe caps built to withstand active school terms.",
+      "price": 19500,
+      "original_price": 24000,
+      "images": [],
+      "sizes": [
+        "27 EU",
+        "29 EU",
+        "31 EU",
+        "33 EU",
+        "35 EU"
+      ],
+      "colors": [
+        "Polished Black",
+        "Deep Brown"
+      ],
+      "stock_quantity": 20,
+      "is_featured": true,
+      "is_published": true,
+      "is_latest": false,
+      "created_at": "2026-02-28T14:30:00Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Embroidered Floral Birthday & Sunday Princess Dress",
+      "slug": "embroidered-floral-princess-dress",
+      "category_id": "cat-clothing",
+      "category_name": "Children's Clothing",
+      "description": "Exquisite layered tulle dress with breathable 100% cotton inner lining, delicate gold embroidery, and a matching headband for special celebrations.",
+      "price": 26000,
+      "original_price": 32000,
+      "images": [],
+      "sizes": [
+        "1-2 Years",
+        "2-3 Years",
+        "4-5 Years",
+        "6-7 Years"
+      ],
+      "colors": [
+        "Blush Pink",
+        "Ivory Gold",
+        "Sky Cyan"
+      ],
+      "stock_quantity": 9,
+      "is_featured": true,
+      "is_published": true,
+      "is_latest": true,
+      "created_at": "2026-03-02T09:15:00Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Gentleman 3-Piece Waistcoat & Trousers Set",
+      "slug": "gentleman-3-piece-boys-suit",
+      "category_id": "cat-clothing",
+      "category_name": "Children's Clothing",
+      "description": "Tailored occasion suit for young boys featuring a crisp cotton shirt, slim-fit button waistcoat, tailored trousers, and pre-tied bow tie.",
+      "price": 28500,
+      "original_price": 35000,
+      "images": [],
+      "sizes": [
+        "2-3 Years",
+        "4-5 Years",
+        "6-7 Years",
+        "8-9 Years"
+      ],
+      "colors": [
+        "Navy Blue",
+        "Charcoal & Gold",
+        "Powder Blue"
+      ],
+      "stock_quantity": 11,
+      "is_featured": false,
+      "is_published": true,
+      "is_latest": true,
+      "created_at": "2026-03-03T11:00:00Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "Multi-Pocket Waterproof Orthopedic School Backpack",
+      "slug": "waterproof-orthopedic-school-backpack",
+      "category_id": "cat-school-bags",
+      "category_name": "School Bags",
+      "description": "High-capacity waterproof school bag featuring breathable honeycomb sponge back padding, reflective safety strips, and organized stationery compartments.",
+      "price": 21000,
+      "original_price": 26500,
+      "images": [],
+      "sizes": [
+        "Primary (Grades 1-3)",
+        "Senior (Grades 4-6)"
+      ],
+      "colors": [
+        "Pink & Cyan",
+        "Royal Blue & Gold",
+        "Deep Violet"
+      ],
+      "stock_quantity": 18,
+      "is_featured": true,
+      "is_published": true,
+      "is_latest": false,
+      "created_at": "2026-02-25T08:45:00Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Double-Wall Insulated Stainless Steel Food Flask & Bottle Set",
+      "slug": "insulated-food-flask-water-bottle-set",
+      "category_id": "cat-lunch-boxes",
+      "category_name": "Lunch Boxes & Feeding",
+      "description": "Keeps food piping hot or chilled for up to 12 hours. Includes a 600ml stainless thermal food flask, matching spill-proof straw tumbler, and foldaway spoon.",
+      "price": 16500,
+      "original_price": 21000,
+      "images": [],
+      "sizes": [
+        "600ml Set",
+        "850ml Set"
+      ],
+      "colors": [
+        "Soft Pink",
+        "Ocean Cyan",
+        "Champagne Gold"
+      ],
+      "stock_quantity": 25,
+      "is_featured": true,
+      "is_published": true,
+      "is_latest": true,
+      "created_at": "2026-03-04T13:20:00Z"
+    },
+    {
+      "id": "prod-7",
+      "name": "Deluxe Newborn 7-Piece Hospital Welcome Hamper",
+      "slug": "deluxe-newborn-hospital-hamper",
+      "category_id": "cat-baby-mother-care",
+      "category_name": "Baby & Mother Care",
+      "description": "Essential care bundle for expectant mothers including organic cotton onesies, swaddle blankets, newborn mittens, booties, hooded bath towel, and soft baby comb.",
+      "price": 34000,
+      "original_price": 40000,
+      "images": [],
+      "sizes": [
+        "0-3 Months",
+        "3-6 Months"
+      ],
+      "colors": [
+        "Unisex White/Gold",
+        "Pastel Pink",
+        "Soft Mint Cyan"
+      ],
+      "stock_quantity": 8,
+      "is_featured": true,
+      "is_published": true,
+      "is_latest": false,
+      "created_at": "2026-02-20T16:00:00Z"
+    },
+    {
+      "id": "prod-8",
+      "name": "Multi-Functional Mother Diaper Backpack with USB & Bassinet",
+      "slug": "multi-functional-mother-diaper-backpack",
+      "category_id": "cat-baby-mother-care",
+      "category_name": "Baby & Mother Care",
+      "description": "Spacious diaper bag with thermal bottle pockets, wipe dispenser, water-resistant interior, and fold-out changing pad station for traveling mothers.",
+      "price": 29500,
+      "original_price": 36000,
+      "images": [],
+      "sizes": [
+        "Standard Large"
+      ],
+      "colors": [
+        "Classic Black & Gold",
+        "Dusty Rose Pink",
+        "Slate Grey"
+      ],
+      "stock_quantity": 12,
+      "is_featured": false,
+      "is_published": true,
+      "is_latest": true,
+      "created_at": "2026-03-05T12:00:00Z"
+    },
+    {
+      "id": "prod-9",
+      "name": "Premium Vegan Leather Mother's Day-to-Night Tote",
+      "slug": "premium-vegan-leather-mothers-tote",
+      "category_id": "cat-womens-fashion",
+      "category_name": "Women's Fashion & Accessories",
+      "description": "Sophisticated everyday luxury tote bag for elegant mothers with gold-tone hardware, structured base studs, zippered main compartment, and detachable shoulder strap.",
+      "price": 38000,
+      "original_price": 45000,
+      "images": [],
+      "sizes": [
+        "One Size (Large)"
+      ],
+      "colors": [
+        "Honey Caramel",
+        "Midnight Navy",
+        "Blush Rose"
+      ],
+      "stock_quantity": 6,
+      "is_featured": true,
+      "is_published": true,
+      "is_latest": true,
+      "created_at": "2026-03-06T14:10:00Z"
+    },
+    {
+      "id": "prod-10",
+      "name": "Summer Anti-Slip Soft Sole Sandals for Toddlers",
+      "slug": "anti-slip-toddler-sandals",
+      "category_id": "cat-shoes",
+      "category_name": "Children's Shoes",
+      "description": "Breathable flexible leather sandals with toe protection and dual hook-and-loop adjustable straps for active outdoor play.",
+      "price": 13500,
+      "original_price": 16500,
+      "images": [],
+      "sizes": [
+        "21 EU",
+        "22 EU",
+        "23 EU",
+        "24 EU",
+        "25 EU"
+      ],
+      "colors": [
+        "Gold Shimmer",
+        "Baby Pink",
+        "Sky Blue"
+      ],
+      "stock_quantity": 16,
+      "is_featured": false,
+      "is_published": true,
+      "is_latest": false,
+      "created_at": "2026-02-18T10:00:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-shoes",
+      "name": "Children's Shoes",
+      "slug": "childrens-shoes",
+      "description": "Quality sneakers, durable school shoes, comfortable sandals, casual footwear, and fashionable party shoes for boys and girls.",
+      "icon": "Footprints"
+    },
+    {
+      "id": "cat-clothing",
+      "name": "Children's Clothing",
+      "slug": "childrens-clothing",
+      "description": "Premium baby wear, lovely children's dresses, smart boys' sets, chic girls' outfits, and versatile occasion wear.",
+      "icon": "Shirt"
+    },
+    {
+      "id": "cat-school-bags",
+      "name": "School Bags",
+      "slug": "school-bags",
+      "description": "Ergonomic children's school backpacks, trendy character bags, lightweight waterproof bookbags, and accessories.",
+      "icon": "Briefcase"
+    },
+    {
+      "id": "cat-lunch-boxes",
+      "name": "Lunch Boxes & Feeding",
+      "slug": "lunch-boxes-feeding",
+      "description": "Insulated food flasks, BPA-free kids lunch sets, leakproof water bottles, silicone bibs, and infant feeding accessories.",
+      "icon": "UtensilsCrossed"
+    },
+    {
+      "id": "cat-baby-mother-care",
+      "name": "Baby & Mother Care",
+      "slug": "baby-mother-care",
+      "description": "Newborn essentials, hospital bag items, gentle baby toiletries, breastfeeding cushions, and mother recovery essentials.",
+      "icon": "HeartHandshake"
+    },
+    {
+      "id": "cat-womens-fashion",
+      "name": "Women's Fashion & Accessories",
+      "slug": "womens-fashion-accessories",
+      "description": "Curated handbags, elegant maternity & post-partum accessories, tote bags, and stylish lifestyle items for modern mothers.",
+      "icon": "Sparkles"
+    }
+  ],
+  "settings": {
+    "business_name": "DE-PEES BABY & MOTHER CARE",
+    "location": "Port Harcourt",
+    "address": "Street beside last Bus Stop Rukpowu, Port Harcourt, Rivers State, Nigeria",
+    "phone": "08100809719",
+    "whatsapp_number": "08100809719",
+    "whatsapp_display": "08100809719",
+    "email": "annayodele1@gmail.com",
+    "instagram": "https://instagram.com/depees_babycare",
+    "facebook": "https://facebook.com/depeesbabycare",
+    "hero_headline": "Beautiful Choices for Your Little Ones and Every Special Woman.",
+    "hero_supporting_text": "Discover beautiful children's fashion, stylish accessories and carefully selected mother and baby essentials, all in one place.",
+    "promotional_banner": "Welcome to DE-PEES! Reliable Port Harcourt pickup & fast nationwide delivery across Nigeria.",
+    "bank_name": "Moniepoint MFB",
+    "account_name": "Johnson Hannah Iruonagbe",
+    "account_number": "6740672278",
+    "bank_sort_code": "",
+    "delivery_fee_ph": 2000,
+    "delivery_fee_nationwide": 4500,
+    "free_delivery_threshold": 60000,
+    "paystack_public_key": "pk_test_sample_depees_nigeria",
+    "supabase_url": "https://tujmamvtbhwrwibnioeh.supabase.co",
+    "supabase_anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1am1hbXZ0Ymh3cndpYm5pb2VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ0NjAwMDcsImV4cCI6MjExMDAzNjAwN30._bWGIUnKCuXQus0iViGJe5DAXwgp-melJ_Qykm-l4o8"
+  },
+  "orders": [
+    {
+      "id": "ord-101",
+      "order_number": "DP-2026-1001",
+      "customer_name": "Chioma Nnamdi",
+      "customer_phone": "+234 803 456 7890",
+      "customer_email": "chioma.n@example.com",
+      "delivery_address": "Flat 4B, Golf Estate, Peter Odili Road",
+      "city": "Port Harcourt",
+      "state": "Rivers State",
+      "order_notes": "Please ring bell upon arrival at the gate.",
+      "payment_method": "bank_transfer",
+      "payment_status": "verified",
+      "order_status": "processing",
+      "subtotal": 38000,
+      "delivery_fee": 2000,
+      "total_amount": 40000,
+      "created_at": "2026-03-07T11:20:00Z",
+      "items": [
+        {
+          "id": "item-1",
+          "product_id": "prod-1",
+          "product_name": "Classic Breathable Kids' White & Gold Sneakers",
+          "price": 18500,
+          "quantity": 1,
+          "selected_size": "28 EU",
+          "selected_color": "White/Gold"
+        }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "full_name": "Efe Okonkwo",
+      "phone_number": "+234 809 332 1144",
+      "email": "efe.okonkwo@example.com",
+      "subject": "Bulk enquiry for School Shoes",
+      "message": "Hello DE-PEES, do you offer discount for purchasing 4 pairs of your orthopedic school shoes for my kids attending school in Port Harcourt?",
+      "created_at": "2026-03-06T15:30:00Z",
+      "status": "read"
+    }
+  ]
+}
